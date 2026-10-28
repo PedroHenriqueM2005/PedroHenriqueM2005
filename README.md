@@ -212,7 +212,7 @@ Design de APIs REST com ASP.NET Core (controllers, injeção de dependência, EF
 
 ### Contato
 
-Estou aberto a vagas de **Desenvolvedor Back-end Júnior** — remoto ou híbrido em Belo Horizonte. Costumo responder em até um dia.
+Estou aberto a vagas de **Desenvolvedor Back-end Júnior, Ciência de Dados & Inteligência Artificial, Engenharia de Software & Desenvolvimento** — remoto ou híbrido em Belo Horizonte. Costumo responder em até um dia.
 
 <div align="center">
 
